@@ -1,0 +1,11 @@
+﻿NN Name (max Iterations = 500),Training Iterations,Total Mean Square Error
+NN-Bias-144H-Back-Sig-LR0.1,115,0.097156093
+NN-Bias-144H-Back-Sig-LR0.2,83,0.100886648
+NN-Bias-144H-Back-Sig-LR0.4,151,0.103220804
+NN-Bias-144H-BackMom-Sig,37,0.097436501
+NN-Bias-144H-ResProp-Sig,158,0.094629169
+NN-Bias-288H-Back-Sig,119,0.204106838
+NN-Bias-50H-Back-Sig,61,0.112549848
+NN-NoBias-144H-Back-Sig,83,0.091579768
+NN-Bias-144H-Back-Sig-LR0.2-ER0.005,184,0.109714657
+final,48,0.087337245
